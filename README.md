@@ -1,0 +1,5 @@
+Developed a machine learning-based system to predict the likelihood of cardiovascular disease (CVD) using structured patient health data. Performed end-to-end data preprocessing, including handling missing values, feature scaling, and encoding categorical variables to ensure model readiness. Conducted exploratory data analysis (EDA) to identify key health indicators influencing disease risk.
+
+Implemented and compared multiple classification algorithms, including Logistic Regression, Random Forest, and XGBoost, to optimize predictive performance. Utilized techniques such as train-test split, cross-validation, and hyperparameter tuning to improve model generalization and prevent overfitting.
+
+Evaluated model performance using metrics like accuracy, precision, recall, and ROC-AUC score to ensure reliable predictions. The final model provides an efficient and scalable approach for early detection of cardiovascular risk, demonstrating the practical application of machine learning in healthcare analytics.
